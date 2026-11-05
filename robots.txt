@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://miramarhvacco.com/sitemap.xml
